@@ -1,5 +1,6 @@
 google.com, pub-7050239253177741, DIRECT, f08c47fec0942fa0
 unity.com, 23663, DIRECT, 96cabb5fbdde37a7
+facebook.com, 288717805723981, DIRECT, c3e20eee3f780d68
 anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
 bluexad.ai, 1996418805747683328, RESELLER
 media.net, 8cu5l226o, RESELLER
